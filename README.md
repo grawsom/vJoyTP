@@ -8,14 +8,14 @@ pyvjoy is a set of Python bindings for vJoy (vjoystick.sourceforge.net)
 
 I have localy made a py script with 3 parameters (vjoy Device ID, vJoy Button number, vJoy Button state on/off) and have turned all that into a exe package that can be used as a plugin in Touch Portal
 
-NOTE:
+## Note:
 (the dll library used in this package only works with x86!)
 
-**Download and install the vJoyTP.tpp file**
+## Download
 
 https://github.com/grawsom/vJoyTP/raw/master/vJoyTP.tpp
 
-TESTTOOL:
+## Testtool:
 "Pointy's Joystick Test App" is very useful when testing vJoy and this library: http://www.planetpointy.co.uk/joystick-test-application/
 
 ## Requirements
@@ -25,6 +25,6 @@ At least one configured virtual Joystick with at least one Button and its ID.
 - vJoy - tested with version v2.1.9.1  
 https://github.com/jshafer817/vJoy/releases/tag/v2.1.9.1
 
-TODO:
+## Roadmap ?
 Support for Axis
 and other stuff
