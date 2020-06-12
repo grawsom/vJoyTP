@@ -11,7 +11,7 @@ I have localy made a py script with 3 parameters (vjoy Device ID, vJoy Button nu
 NOTE:
 (the dll library used in this package only works with x86!)
 
-** Download and install the vJoyTP.tpp file ** 
+**Download and install the vJoyTP.tpp file** 
 
 TESTTOOL:
 "Pointy's Joystick Test App" is very useful when testing vJoy and this library: http://www.planetpointy.co.uk/joystick-test-application/
