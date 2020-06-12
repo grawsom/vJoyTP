@@ -12,6 +12,7 @@ NOTE:
 (the dll library used in this package only works with x86!)
 
 **Download and install the vJoyTP.tpp file**
+
 https://github.com/grawsom/vJoyTP/raw/master/vJoyTP.tpp
 
 TESTTOOL:
