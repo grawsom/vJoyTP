@@ -12,7 +12,7 @@ NOTE:
 (the dll library used in this package only works with x86!)
 
 **Download and install the vJoyTP.tpp file**
-https://github.com/grawsom/vJoyTP/blob/master/vJoyTP.tpp
+https://github.com/grawsom/vJoyTP/raw/master/vJoyTP.tpp
 
 TESTTOOL:
 "Pointy's Joystick Test App" is very useful when testing vJoy and this library: http://www.planetpointy.co.uk/joystick-test-application/
