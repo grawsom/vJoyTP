@@ -28,3 +28,6 @@ https://github.com/jshafer817/vJoy/releases/tag/v2.1.9.1
 ## Roadmap ?
 Support for Axis
 and other stuff
+
+## License
+MIT
