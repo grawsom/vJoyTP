@@ -1,4 +1,6 @@
 # vJoyTP
+**THIS PLUGIN WILL BE REPLACED BY A C# SOLUTION - MORE TO COME**
+
 vJoy for Touch Portal
 
 Wanted to find an easy way to use vJoy in Touch Portal and it seems like pyvjoy can do the stuff. 
